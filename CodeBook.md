@@ -1,12 +1,12 @@
 This codebook describes variables and transformations in run_analysis.R file.
 
-**Data frame Signals_Measures_labeled**
+**Data frame Signals_Measures_labeled** (tasks 1-4)
 - signal - type of signal from Inertial Signals, derived from file names
 - mean - mean for each measurement in Inertial Signals
 - SD - standard deviation for each measurement in Inertial Signals
 - activity - the name of a measured activity
 
-**Data frame Signals_Avg**
+**Data frame Signals_Avg** (task 5)
 - signal - type of signal from Inertial Signals, derived from file names
 - activity - the name of a measured activity
 - subject - identification of a measured person
